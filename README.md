@@ -1,7 +1,6 @@
 
 # Numpy
-<h4>  
-Besides its obvious scientific uses, Numpy can also be used as an efficient multi-dimensional container of generic data. I Explored:</h4>
+
 <ul>
 <li>Various features of Numpy </li>
 <li>how to use them in projects.</li>
