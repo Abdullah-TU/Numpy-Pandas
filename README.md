@@ -11,5 +11,5 @@
 
 <ul>
 <li>Various features of Python Pandas </li>
-
+<li>how to use them in practice.</li>
 </ul>
